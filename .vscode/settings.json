@@ -1,0 +1,22 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+		"**/*.lua": true,
+		"**/*.osx": true,
+		"**/*.bat": true,
+		"**/*.ico": true,
+		"**/*.rc": true,
+		"**/Makefile": true,
+		"**/LICENSE": true,
+		"**/premake5": true,
+		"**/obj": true,
+		"**/bin": true,
+		"**/raylib-master": true,
+	}
+}
